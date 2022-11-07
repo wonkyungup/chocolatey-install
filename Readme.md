@@ -1,1 +1,1 @@
-##Chocolatey software automatic installation script
+Chocolatey software automatic installation script
